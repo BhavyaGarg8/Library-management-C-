@@ -1,0 +1,7 @@
+Assumptions:
+    1. This is a one time run system.
+    2. Once we exit the system, whole database is erased away.
+    3. Firstly Librarian has to Login with Id= "admin" and Password = "admin", after that he can add new users and books. Now Librarian may LOGOUT.
+    4. After adding certain data, users which were added now Login to their page.
+    5. Remember, no user should exit the system.
+    
